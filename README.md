@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
