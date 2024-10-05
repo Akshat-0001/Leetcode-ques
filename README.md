@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -14,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
