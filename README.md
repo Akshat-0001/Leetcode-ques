@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1923-sentence-similarity-iii) |
 ## Sliding Window
 |  |
 | ------- |
