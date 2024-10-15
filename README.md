@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akshat-0001/Leetcode-ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-0001/Leetcode-ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/Akshat-0001/Leetcode-ques/tree/master/1923-sentence-similarity-iii) |
