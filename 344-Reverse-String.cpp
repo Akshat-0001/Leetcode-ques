@@ -1,14 +1,7 @@
 class Solution {
 public:
-    void reverseString(vector<char>& s) {
-        
-    for (char c : s) {
-        string filtered = \\;
 
-        if (isalnum(c)) {
-            filtered = tolower(c);
-        }
-    }
+    void reverseString(vector<char>& s) {
         int n = s.size();
         int start = 0;
         int end = n - 1;
