@@ -1,20 +1,14 @@
 1class Solution {
 2public:
 3    vector<int> twoSum(vector<int>& numbers, int target) {
-4
-5        int n= numbers.size();
+4        int front=0;
+5        int back= numbers.size()-1;
 6
-7        int left=0;
-8        int right=n-1;
-9
-10        while(left<right){
-11            if(numbers[left]+numbers[right]==target) return {left+1, right+1};
-12
-13        else if(numbers[left]+numbers[right]>target) right--;
-14        else left++;
-15        }
-16
-17        return {};
-18        
-19    }
-20};
+7        while(front<back){
+8            if(numbers[front]+numbers[back] == target) return {front+1, back+1};
+9            else if(numbers[front]+numbers[back] > target) back--;
+10            else front++;
+11        }
+12        return {};
+13    }
+14};
